@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+
+p
+{
+    text-transform: uppercase;
+}
+
+p1
+{
+    text-transform: capitalize;
+}
+
